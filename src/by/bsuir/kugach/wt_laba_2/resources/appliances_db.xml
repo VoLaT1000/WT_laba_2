@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<items>
+    <teakettle>
+        <capacity>1700</capacity>
+        <powerConsumption>2200</powerConsumption>
+        <color>grey</color>
+        <material>steel</material>
+        <price>115</price>
+    </teakettle>
+    <laptop>
+        <batteryCapacity>1000</batteryCapacity>
+        <os>Windows</os>
+        <memoryRom>4000</memoryRom>
+        <systemMemory>1000</systemMemory>
+        <cpu>1</cpu>
+        <displayInches>18</displayInches>
+        <price>1600</price>
+    </laptop>
+
+    <teakettle>
+        <powerConsumption>1000</powerConsumption>
+        <capacity>1000</capacity>
+        <material>plastic</material>
+        <color>white</color>
+        <price>55</price>
+    </teakettle>
+
+    <fridge>
+        <powerConsumption>100</powerConsumption>
+        <weight>20</weight>
+        <freezerCapacity>10</freezerCapacity>
+        <overallCapacity>300</overallCapacity>
+        <height>200</height>
+        <width>70</width>
+        <price>900</price>
+    </fridge>
+
+    <teakettle>
+        <powerConsumption>2500</powerConsumption>
+        <capacity>2000</capacity>
+        <material>plastic</material>
+        <color>black</color>
+        <price>120</price>
+    </teakettle>
+</items>
